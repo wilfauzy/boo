@@ -73,6 +73,13 @@
             $('.author-image').css('visibility', 'visible');
         });
 
+        // Open/close navigation menu with ESC key:
+        window.document.onkeydown = function(event) {
+            if (event.repeat === false && event.code === 'Escape') {
+                $("body").toggleClass("nav-opened nav-closed");
+            }
+        };
+
     });
 
     // Arctic Scroll by Paul Adam Davis
