@@ -18,7 +18,7 @@
 
 [![Boo theme demo on a tablet showing the menu](http://i.imgur.com/wRrVgrL.png)](https://boo-demo.tenoku.com)
 
-[![Boo theme demo on a tablet in portrait orientation](http://i.imgur.com/hMd3wd6.png)](https://boo-demo.tenoku.com)
+[![Boo theme demo on a tablet in portrait orientation](http://i.imgur.com/R0P8LYS.png)](https://boo-demo.tenoku.com)
 
 [![Boo theme demo on a smartphone](http://i.imgur.com/g6SLM6X.png)](https://boo-demo.tenoku.com)
 
