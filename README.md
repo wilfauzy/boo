@@ -18,13 +18,13 @@
 
 [![Boo theme demo on a tablet showing the menu](http://i.imgur.com/wRrVgrL.png)](https://boo-demo.tenoku.com)
 
-[![Boo theme demo on a tablet in portrait orientation](http://i.imgur.com/R0P8LYS.png)](https://boo-demo.tenoku.com)
+[![Boo theme demo on a tablet in portrait orientation](http://i.imgur.com/a6Dc6Cp.png)](https://boo-demo.tenoku.com)
 
 [![Boo theme demo on a smartphone](http://i.imgur.com/g6SLM6X.png)](https://boo-demo.tenoku.com)
 
 [![Boo theme demo on a smartphone showing the menu](http://i.imgur.com/Cj7rvMx.png)](https://boo-demo.tenoku.com)
 
-[![Boo theme demo on a smartphone in portrait orientation](http://i.imgur.com/U9SOmHZ.png)](https://boo-demo.tenoku.com)
+[![Boo theme demo on a smartphone in portrait orientation](http://i.imgur.com/gGMFlYg.png)](https://boo-demo.tenoku.com)
 
 [![Boo theme on smartphones and tablets](http://i.imgur.com/fHugkw5.png)](https://boo-demo.tenoku.com)
 
