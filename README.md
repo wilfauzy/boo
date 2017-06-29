@@ -30,18 +30,6 @@
 
 ---
 
-[![Animated gif of Boo theme, home page on a desktop](http://i.imgur.com/0LYO26Q.gif)](https://boo-demo.tenoku.com)
----
-[![Animated fig showing the Boo theme on a desktop](http://i.imgur.com/r5lx0oE.gif)](https://boo-demo.tenoku.com)
----
-[![Animated fig showing the Boo theme on a desktop](http://i.imgur.com/7SqhEsT.gif)](https://boo-demo.tenoku.com)
----
-[![Animated gif showing the menu of the Boo theme on a desktop](http://i.imgur.com/gMroOve.gif)](https://boo-demo.tenoku.com)
----
-[![Animated gif showing the menu of the Boo theme on a mobile device](http://i.imgur.com/ptNIwCP.gif)](https://boo-demo.tenoku.com)
-
----
-
 # Installation 🚀
 1. Download the [latest version of Boo](https://github.com/tenoku/boo/releases) (Please consider [paying what you want for it ☕️](https://sellfy.com/p/Acjr))
 2. Log into your blog: **yourblog.ghost.io/ghost** [(Don't have Ghost?](https://ghost.org))
