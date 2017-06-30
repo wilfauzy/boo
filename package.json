@@ -1,6 +1,6 @@
 {
     "name": "Boo",
-    "description": "A beautiful, clean and responsive theme for Ghost.",
+    "description": "A beautiful, clean, and responsive theme for Ghost.",
     "demo": "http://boo-demo.tenoku.com",
     "version": "0.11.1",
     "engines": {
