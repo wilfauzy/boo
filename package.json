@@ -41,6 +41,6 @@
     "bugs": "https://github.com/tenoku/boo/issues",
     "contributors": "https://github.com/tenoku/boo/graphs/contributors",
     "config": {
-        "posts_per_page": 5
+        "posts_per_page": 4
     }
 }
