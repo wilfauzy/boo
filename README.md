@@ -52,10 +52,11 @@ Check for conflicting code in the code injection section of your admin area.
 
 
 # Show us your love ❤️
-If you like Boo, please consider supporting it by:
+If you like Boo, please consider supporting its development:
 
-- [Paying what you want for it ☕️](https://sellfy.com/p/Acjr)
-- Starring it 🌟 [![GitHub stars](https://img.shields.io/github/stars/tenoku/boo.svg?style=social&label=Star)](https://github.com/tenoku/boo/stargazers)
+- [Get the commercial version ☕️](https://sellfy.com/p/Acjr)
+- Star it 🌟 [![GitHub stars](https://img.shields.io/github/stars/tenoku/boo.svg?style=social&label=Star)](https://github.com/tenoku/boo/stargazers)
+- Fill out this this <a href="https://form.jotform.co/70745196071862">30-second survey</a> ✏️
 
 
 # Partners 👊
