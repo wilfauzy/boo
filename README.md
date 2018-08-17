@@ -58,11 +58,23 @@ If you like Boo, please consider supporting its development:
 - Fill out this this <a href="https://form.jotform.co/70745196071862">30-second survey</a> ✏️
 
 
-# Partners 👊
+# Partners and supporters 👊
 
 [![BrowserStack logo](http://i.imgur.com/bZu7EA8.png)](https://www.browserstack.com/)
 
 **Boo** is tested using [**BrowserStack**](https://www.browserstack.com/), a service that lets you test your websites and web apps on 1100+ browsers and a range of physical Android and iOS mobile devices and tablets to ensure the highest quality.
+
+---
+
+[![Panic Transmit](https://i.imgur.com/cy0bQUH.jpg)](https://panic.com/transmit/)
+
+**Transmit** is the gold standard of macOS file transfer apps. Upload, download, and manage files on tons of servers with an easy, familiar, and powerful UI. It’s quite good.
+
+---
+
+[![JetBrains](https://i.imgur.com/JWT5zo2.png)](https://www.jetbrains.com/)
+
+**JetBrains** is a software vendor specializing in the creation of intelligent development tools. Whichever technologies you use, there's a JetBrains tool to match.
 
 ---
 
