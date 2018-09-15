@@ -1147,6 +1147,13 @@ body:not(.page-template) .post-title {
    5. Single Post - When you click on an individual post
    ========================================================================== */
 
+figcaption {
+    text-align: center;
+    opacity: 0.68;
+    font-size: 1.65rem;
+    line-height: 1em;
+}
+
 .kg-width-wide {
     position: relative;
     width: 60vw;
