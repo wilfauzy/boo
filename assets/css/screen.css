@@ -1231,6 +1231,11 @@ figcaption {
     margin-bottom: 10px;
 }
 
+.fas.fa-star {
+    position: relative;
+    bottom: 2px;
+}
+
 .post-template .post-header,
 .page-template .post-header {
    margin-bottom: 3.4rem;
