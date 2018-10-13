@@ -6,7 +6,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/PoeticThemes/boo.svg?style=social&label=Star)](https://github.com/PoeticThemes/boo/stargazers)
 ---
 
-[Installation](https://github.com/tenoku/boo#installation-) • [FAQ](https://github.com/tenoku/boo#faq-) • [Bug reports](https://github.com/tenoku/boo#bug-reports-) • [Improvement survey](https://form.jotform.co/70745196071862)
+[Installation](https://github.com/PoeticThemes/boo#installation-) • [FAQ](https://github.com/PoeticThemes/boo#faq-) • [Bug reports](https://github.com/PoeticThemes/boo#bug-reports-) • [Improvement survey](https://form.jotform.co/70745196071862)
 
 ---
 
