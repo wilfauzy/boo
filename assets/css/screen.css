@@ -1208,6 +1208,29 @@ figcaption {
     margin-bottom: 1.75em;
 }
 
+.kg-card.kg-image-card {
+    margin-bottom: 2.5em;
+}
+
+.kg-card.kg-image-card figcaption {
+    margin-bottom: -15px;
+}
+
+.kg-card.kg-embed-card figcaption {
+    margin-top: -56px;
+    margin-bottom: -11px;
+}
+
+.fluid-width-video-wrapper {
+    margin-bottom: 66px;
+    margin-top: 51px;
+}
+
+.kg-card.kg-embed-card iframe {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
 .post-template .post-header,
 .page-template .post-header {
    margin-bottom: 3.4rem;
