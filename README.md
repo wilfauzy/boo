@@ -12,7 +12,7 @@
 
 > A beautiful, clean, and responsive theme for Ghost. [(Pay what you want 💸)](https://sellfy.com/p/Acjr)
 
-[![Boo theme logo](http://i.imgur.com/Fr0xlnV.png)](https://boo-demo.tenoku.com)
+[![Boo theme showcase](https://i.imgur.com/BfSPs8C.png)](https://sellfy.com/p/Acjr)
 
 [![Boo theme demo on a tablet](http://i.imgur.com/sTAXHdF.png)](https://boo-demo.tenoku.com)
 
@@ -63,6 +63,7 @@ If you like Boo, please consider supporting its development:
 
 This theme is brought to you thanks to our awesome partners, sponsors, and supporters.
 
+
 [![BrowserStack logo](http://i.imgur.com/bZu7EA8.png)](https://www.browserstack.com/)
 
 **Boo** is tested using [**BrowserStack**](https://www.browserstack.com/), a service that lets you test your websites and web apps on 1100+ browsers and a range of physical Android and iOS mobile devices and tablets to ensure the highest quality.
@@ -75,7 +76,7 @@ This theme is brought to you thanks to our awesome partners, sponsors, and suppo
 
 ---
 
-[![JetBrains](https://i.imgur.com/j10WKFH.png)](https://www.jetbrains.com/)
+[![JetBrains](https://i.imgur.com/NLUGFsd.png)](https://www.jetbrains.com/)
 
 **JetBrains** is a software vendor specializing in the creation of intelligent development tools. Whichever technologies you use, there's a JetBrains tool to match.
 
