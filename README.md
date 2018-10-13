@@ -1,9 +1,9 @@
-[![Demo status](https://img.shields.io/badge/live%20demo-online-brightgreen.svg)](https://boo-demo.tenoku.com/)
-[![Release shield](https://img.shields.io/github/release/tenoku/boo.svg)](https://github.com/tenoku/boo/releases)
-[![Ghost version shield](https://img.shields.io/badge/ghost%20version->=%200.11.3-00BCD4.svg)](https://github.com/tenoku/boo/releases)
-[![GitHub issues](https://img.shields.io/github/issues/tenoku/boo.svg)](https://github.com/tenoku/boo/issues)
-[![GitHub forks](https://img.shields.io/github/forks/tenoku/boo.svg)](https://github.com/tenoku/boo/network)
-[![GitHub stars](https://img.shields.io/github/stars/tenoku/boo.svg?style=social&label=Star)](https://github.com/tenoku/boo/stargazers)
+[![Demo status](https://img.shields.io/badge/live%20demo-online-brightgreen.svg)](https://sellfy.com/p/Acjr)
+[![Release shield](https://img.shields.io/github/release/PoeticThemes/boo.svg)](https://github.com/PoeticThemes/boo/releases)
+[![Ghost version shield](https://img.shields.io/badge/ghost%20version->=%202.2.0-00BCD4.svg)](https://github.com/PoeticThemes/boo/releases)
+[![GitHub issues](https://img.shields.io/github/issues/PoeticThemes/boo.svg)](https://github.com/PoeticThemes/boo/issues)
+[![GitHub forks](https://img.shields.io/github/forks/PoeticThemes/boo.svg)](https://github.com/PoeticThemes/boo/network)
+[![GitHub stars](https://img.shields.io/github/stars/PoeticThemes/boo.svg?style=social&label=Star)](https://github.com/PoeticThemes/boo/stargazers)
 ---
 
 [Installation](https://github.com/tenoku/boo#installation-) • [FAQ](https://github.com/tenoku/boo#faq-) • [Bug reports](https://github.com/tenoku/boo#bug-reports-) • [Improvement survey](https://form.jotform.co/70745196071862)
@@ -82,9 +82,9 @@ Take this quick <a href="https://form.jotform.co/70745196071862">30-second surve
 
 ---
 
-[![Demo status](https://img.shields.io/badge/live%20demo-online-brightgreen.svg)](https://boo-demo.tenoku.com/)
-[![Release shield](https://img.shields.io/github/release/tenoku/boo.svg)](https://github.com/tenoku/boo/releases)
-[![Ghost version shield](https://img.shields.io/badge/ghost%20version->=%200.11.3-00BCD4.svg)](https://github.com/tenoku/boo/releases)
-[![GitHub issues](https://img.shields.io/github/issues/tenoku/boo.svg)](https://github.com/tenoku/boo/issues)
-[![GitHub forks](https://img.shields.io/github/forks/tenoku/boo.svg)](https://github.com/tenoku/boo/network)
-[![GitHub stars](https://img.shields.io/github/stars/tenoku/boo.svg?style=social&label=Star)](https://github.com/tenoku/boo/stargazers)
+[![Demo status](https://img.shields.io/badge/live%20demo-online-brightgreen.svg)](https://sellfy.com/p/Acjr)
+[![Release shield](https://img.shields.io/github/release/PoeticThemes/boo.svg)](https://github.com/PoeticThemes/boo/releases)
+[![Ghost version shield](https://img.shields.io/badge/ghost%20version->=%202.2.0-00BCD4.svg)](https://github.com/PoeticThemes/boo/releases)
+[![GitHub issues](https://img.shields.io/github/issues/PoeticThemes/boo.svg)](https://github.com/PoeticThemes/boo/issues)
+[![GitHub forks](https://img.shields.io/github/forks/PoeticThemes/boo.svg)](https://github.com/PoeticThemes/boo/network)
+[![GitHub stars](https://img.shields.io/github/stars/PoeticThemes/boo.svg?style=social&label=Star)](https://github.com/PoeticThemes/boo/stargazers)
