@@ -6,11 +6,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/PoeticThemes/boo.svg?style=social&label=Star)](https://github.com/PoeticThemes/boo/stargazers)
 ---
 
-[Installation](https://github.com/PoeticThemes/boo#installation-) • [FAQ](https://github.com/PoeticThemes/boo#faq-) • [Bug reports](https://github.com/PoeticThemes/boo#bug-reports-) • [Improvement survey](https://form.jotform.co/70745196071862)
+[Installation](https://github.com/PoeticThemes/boo#installation-) • [FAQ](https://github.com/PoeticThemes/boo#faq-) • [Bug reports](https://github.com/PoeticThemes/boo#bug-reports-) • [Survey](https://form.jotform.co/70745196071862)
 
 ---
 
-> A beautiful, clean, and responsive theme for Ghost. [Live Demo](http://boo-demo.tenoku.com)
+> A beautiful, clean, and responsive theme for Ghost. [(Pay what you want 💸)](https://sellfy.com/p/Acjr)
 
 [![Boo theme logo](http://i.imgur.com/Fr0xlnV.png)](https://boo-demo.tenoku.com)
 
@@ -31,7 +31,7 @@
 ---
 
 # Installation 🚀
-1. Download the [latest version of Boo](https://github.com/tenoku/boo/releases) (Please consider [paying what you want for it ☕️](https://sellfy.com/p/Acjr))
+1. Download the [latest version of Boo](https://github.com/PoeticThemes/boo/releases) (Please consider [paying what you want for it ☕️](https://sellfy.com/p/Acjr))
 2. Log into your blog: **yourblog.ghost.io/ghost** [(Don't have Ghost?](https://ghost.org))
 3. Select **General** from the navigation menu on the left of your admin area.
 4. Scroll down to the **Themes** section and click on the green **Upload a Theme** button.
@@ -39,7 +39,7 @@
 
 
 # Bug reports 🐞
-Found a bug? No problem, [click here](https://github.com/tenoku/boo/issues/new) to report it.
+Found a bug? No problem, [click here](https://github.com/PoeticThemes/boo/issues/new) to report it.
 
 
 # FAQ 💬
@@ -54,11 +54,14 @@ Check for conflicting code in the code injection section of your admin area.
 # Show us your love ❤️
 If you like Boo, please consider supporting its development:
 
-- Star it 🌟 [![GitHub stars](https://img.shields.io/github/stars/tenoku/boo.svg?style=social&label=Star)](https://github.com/tenoku/boo/stargazers)
+- Star it 🌟 [![GitHub stars](https://img.shields.io/github/stars/PoeticThemes/boo.svg?style=social&label=Star)](https://github.com/PoeticThemes/boo/stargazers)
+- [Pay what you want](https://sellfy.com/p/Acjr) 💸
 - Fill out this this <a href="https://form.jotform.co/70745196071862">30-second survey</a> ✏️
 
 
 # Partners and supporters 👊
+
+This theme is brought to you thanks to our awesome partners, sponsors, and supporters.
 
 [![BrowserStack logo](http://i.imgur.com/bZu7EA8.png)](https://www.browserstack.com/)
 
