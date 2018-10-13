@@ -10,7 +10,9 @@
 
 ---
 
-> A beautiful, clean, and responsive theme for Ghost. [(Pay what you want 💸)](https://sellfy.com/p/Acjr)
+![Boo logo](https://i.imgur.com/sAAA57q.png)
+
+A beautiful, clean, and responsive theme for Ghost. [(Pay what you want 💸)](https://sellfy.com/p/Acjr)
 
 [![Boo theme showcase](https://i.imgur.com/BfSPs8C.png)](https://sellfy.com/p/Acjr)
 
