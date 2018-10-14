@@ -7,6 +7,7 @@
 ---
 
 [Installation](https://github.com/PoeticThemes/boo#installation-) • [FAQ](https://github.com/PoeticThemes/boo#faq-) • [Bug reports](https://github.com/PoeticThemes/boo#bug-reports-) • [Survey](https://form.jotform.co/70745196071862)
+<br><br>
 
 ![Boo logo](https://i.imgur.com/vKO03jl.png)
 
