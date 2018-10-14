@@ -14,10 +14,10 @@
 A beautiful, clean, and responsive theme for Ghost. [(Pay what you want 💸)](https://sellfy.com/p/Acjr)
 <br><br>
 
-[![Boo theme showcase](https://i.imgur.com/4iiW70y.png)](https://sellfy.com/p/Acjr)
+[![Boo theme showcase](https://i.imgur.com/BfSPs8C.png)](https://sellfy.com/p/Acjr)
 <br><br>
 
-[![Boo for Ghost desktop](https://i.imgur.com/TvBQsqA.png)](https://sellfy.com/p/Acjr)
+[![Boo for Ghost desktop](https://i.imgur.com/OOAzU2B.png)](https://sellfy.com/p/Acjr)
 
 [![Boo theme demo on a tablet showing the menu](http://i.imgur.com/wRrVgrL.png)](https://boo-demo.tenoku.com)
 
