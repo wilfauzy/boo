@@ -28,6 +28,8 @@ A beautiful, clean, and responsive theme for Ghost. [(Pay what you want 💸)](h
 
 [![Boo mobile](https://i.imgur.com/70XEoJB.png)](https://sellfy.com/p/Acjr)
 
+A theme by
+
 [![Poetic Themes](https://i.imgur.com/L5GhmD2.jpg)](https://sellfy.com/p/Acjr)
 
 ---
