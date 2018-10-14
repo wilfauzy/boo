@@ -27,6 +27,7 @@ A beautiful, clean, and responsive theme for Ghost. [(Pay what you want 💸)](h
 <br><br>
 
 [![Boo mobile](https://i.imgur.com/70XEoJB.png)](https://sellfy.com/p/Acjr)
+<br><br>
 
 A theme by
 
