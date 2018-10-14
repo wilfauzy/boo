@@ -10,6 +10,7 @@
 <br><br>
 
 ![Boo logo](https://i.imgur.com/0qIgmsB.jpg)
+[![Boo logo](https://i.imgur.com/0qIgmsB.jpg)](https://sellfy.com/p/Acjr)
 
 A beautiful, clean, and responsive theme for Ghost. [(Pay what you want 💸)](https://sellfy.com/p/Acjr)
 <br><br>
