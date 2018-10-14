@@ -18,18 +18,15 @@ A beautiful, clean, and responsive theme for Ghost. [(Pay what you want 💸)](h
 <br><br>
 
 [![Boo desktop](https://i.imgur.com/E1mMrYg.png)](https://sellfy.com/p/Acjr)
+<br><br>
 
-[![Boo theme demo on a tablet showing the menu](http://i.imgur.com/wRrVgrL.png)](https://boo-demo.tenoku.com)
+[![Boo desktop](https://i.imgur.com/6KjLbUr.png)](https://sellfy.com/p/Acjr)
+<br><br>
 
-[![Boo theme demo on a tablet in portrait orientation](http://i.imgur.com/a6Dc6Cp.png)](https://boo-demo.tenoku.com)
+[![Boo desktop](https://i.imgur.com/fd55Amc.png)](https://sellfy.com/p/Acjr)
+<br><br>
 
-[![Boo theme demo on a smartphone](http://i.imgur.com/g6SLM6X.png)](https://boo-demo.tenoku.com)
-
-[![Boo theme demo on a smartphone showing the menu](http://i.imgur.com/Cj7rvMx.png)](https://boo-demo.tenoku.com)
-
-[![Boo theme demo on a smartphone in portrait orientation](http://i.imgur.com/gGMFlYg.png)](https://boo-demo.tenoku.com)
-
-[![Boo theme on smartphones and tablets](http://i.imgur.com/fHugkw5.png)](https://boo-demo.tenoku.com)
+[![Boo mobile](https://i.imgur.com/70XEoJB.png)](https://sellfy.com/p/Acjr)
 
 ---
 
