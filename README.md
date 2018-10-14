@@ -17,7 +17,7 @@ A beautiful, clean, and responsive theme for Ghost. [(Pay what you want 💸)](h
 [![Boo theme showcase](https://i.imgur.com/BfSPs8C.png)](https://sellfy.com/p/Acjr)
 <br><br>
 
-[![Boo desktop](https://i.imgur.com/BHvjkBQ.png)](https://sellfy.com/p/Acjr)
+[![Boo desktop](https://i.imgur.com/vqs1ybd.png)](https://sellfy.com/p/Acjr)
 
 [![Boo theme demo on a tablet showing the menu](http://i.imgur.com/wRrVgrL.png)](https://boo-demo.tenoku.com)
 
