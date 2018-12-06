@@ -11,6 +11,7 @@
 A beautiful, clean, and responsive theme for Ghost. [(Pay what you want 💸)](https://sellfy.com/p/Acjr)
 <br><br>
 [![Boo logo](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/mWST66S8IsFENkC13lXk/d05AUxswkS.jpeg?w=888)](https://sellfy.com/p/Acjr)
+[![minimalist home page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/3IDCDZCSKYeMII6xOl1M/DlLArZgHZW.jpeg?w=888)](https://sellfy.com/p/Acjr)
 [![100% responsive](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/zIfo5LI1GvWzkJA8Nl3T/x3rFYKJ2qH.jpeg?w=888)](https://sellfy.com/p/Acjr)
 [![beautiful menu](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/rm7E7b50HO3Adfm6Mxno/Td1v4lrdkb.jpeg?w=888)](https://sellfy.com/p/Acjr)
 [![author page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/Qb2TzpZlU3s1hkUXHpjt/qwuoWriONU.jpeg?w=888)](https://sellfy.com/p/Acjr)
