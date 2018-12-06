@@ -33,6 +33,8 @@ A beautiful, clean, and responsive theme for Ghost. [(Pay what you want 💸)](h
 [![elegant typography](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/mvD1lqiBZh99tsFNNTdb/B5cc4sU2VQ.jpeg?w=888)](https://sellfy.com/p/Acjr)
 
 [![github stars](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/FKRl4yxGOegXQug9NwfS/JNQpSWYXFA.jpeg?w=888)](https://sellfy.com/p/Acjr)
+
+[![a theme by Poetic Themes](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/CiPhlomJOofYeQmAOO2D/Jc6FLWHh9U.jpeg?w=888)](https://sellfy.com/p/Acjr)
 <br><br>
 
 A theme by
