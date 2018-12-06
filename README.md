@@ -15,29 +15,21 @@ A beautiful, clean, and responsive theme for Ghost. [(Pay what you want 💸)](h
 <br><br>
 
 [![100% responsive](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/zIfo5LI1GvWzkJA8Nl3T/x3rFYKJ2qH.jpeg?w=888)](https://sellfy.com/p/Acjr)
-<br><br>
 
 [![beautiful menu](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/rm7E7b50HO3Adfm6Mxno/Td1v4lrdkb.jpeg?w=888)](https://sellfy.com/p/Acjr)
-<br><br>
-
 [![author page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/Qb2TzpZlU3s1hkUXHpjt/qwuoWriONU.jpeg?w=888)](https://sellfy.com/p/Acjr)
-<br><br>
 
 [![clean post list](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/n2dNY7t48QPDH6PxjxV0/U6KTfQ9bfN.jpeg?w=888)](https://sellfy.com/p/Acjr)
-<br><br>
 
 [![tags page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/6frNQtivghAlyL9UtCL9/RMQOV1cRTv.jpeg?w=888)](https://sellfy.com/p/Acjr)
 
 [![post previews](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/gqMWpAhjQJrALMNFy9qI/qARZZ9Wbx2.jpeg?w=888)](https://sellfy.com/p/Acjr)
 
 [![custom 404 page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/sXakMtZ170A1WEnEqGkV/OSTKPzxrZY.jpeg?w=888)](https://sellfy.com/p/Acjr)
-<br><br>
 
 [![post images](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/rIxtH1SMUBYX8PPTUPNv/PLgCKAMebj.jpeg?w=888)](https://sellfy.com/p/Acjr)
-<br><br>
 
 [![elegant typography](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/mvD1lqiBZh99tsFNNTdb/B5cc4sU2VQ.jpeg?w=888)](https://sellfy.com/p/Acjr)
-<br><br>
 
 [![github stars](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/FKRl4yxGOegXQug9NwfS/JNQpSWYXFA.jpeg?w=888)](https://sellfy.com/p/Acjr)
 <br><br>
