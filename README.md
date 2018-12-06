@@ -27,10 +27,8 @@ A beautiful, clean, and responsive theme for Ghost. [(Pay what you want 💸)](h
 <br><br>
 
 [![tags page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/6frNQtivghAlyL9UtCL9/RMQOV1cRTv.jpeg?w=888)](https://sellfy.com/p/Acjr)
-<br><br>
 
 [![post previews](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/gqMWpAhjQJrALMNFy9qI/qARZZ9Wbx2.jpeg?w=888)](https://sellfy.com/p/Acjr)
-<br><br>
 
 [![custom 404 page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/sXakMtZ170A1WEnEqGkV/OSTKPzxrZY.jpeg?w=888)](https://sellfy.com/p/Acjr)
 <br><br>
