@@ -9,24 +9,39 @@
 [Installation](https://github.com/PoeticThemes/boo#installation-) • [FAQ](https://github.com/PoeticThemes/boo#faq-) • [Bug reports](https://github.com/PoeticThemes/boo#bug-reports-) • [Survey](https://form.jotform.co/70745196071862)
 <br><br>
 
-[![Boo logo](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/mWST66S8IsFENkC13lXk/d05AUxswkS.jpeg?w=988)](https://sellfy.com/p/Acjr)
+[![Boo logo](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/mWST66S8IsFENkC13lXk/d05AUxswkS.jpeg?w=888)](https://sellfy.com/p/Acjr)
 
 A beautiful, clean, and responsive theme for Ghost. [(Pay what you want 💸)](https://sellfy.com/p/Acjr)
 <br><br>
 
-[![Boo theme showcase](https://i.imgur.com/BfSPs8C.png)](https://sellfy.com/p/Acjr)
+[![100% responsive](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/zIfo5LI1GvWzkJA8Nl3T/x3rFYKJ2qH.jpeg?w=888)](https://sellfy.com/p/Acjr)
 <br><br>
 
-[![Boo desktop](https://i.imgur.com/E1mMrYg.png)](https://sellfy.com/p/Acjr)
+[![beautiful menu](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/rm7E7b50HO3Adfm6Mxno/Td1v4lrdkb.jpeg?w=888)](https://sellfy.com/p/Acjr)
 <br><br>
 
-[![Boo desktop](https://i.imgur.com/6KjLbUr.png)](https://sellfy.com/p/Acjr)
+[![author page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/Qb2TzpZlU3s1hkUXHpjt/qwuoWriONU.jpeg?w=888)](https://sellfy.com/p/Acjr)
 <br><br>
 
-[![Boo desktop](https://i.imgur.com/fd55Amc.png)](https://sellfy.com/p/Acjr)
+[![clean post list](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/n2dNY7t48QPDH6PxjxV0/U6KTfQ9bfN.jpeg?w=888)](https://sellfy.com/p/Acjr)
 <br><br>
 
-[![Boo mobile](https://i.imgur.com/70XEoJB.png)](https://sellfy.com/p/Acjr)
+[![tags page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/6frNQtivghAlyL9UtCL9/RMQOV1cRTv.jpeg?w=888)](https://sellfy.com/p/Acjr)
+<br><br>
+
+[![post previews](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/gqMWpAhjQJrALMNFy9qI/qARZZ9Wbx2.jpeg?w=888)](https://sellfy.com/p/Acjr)
+<br><br>
+
+[![custom 404 page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/sXakMtZ170A1WEnEqGkV/OSTKPzxrZY.jpeg?w=888)](https://sellfy.com/p/Acjr)
+<br><br>
+
+[![post images](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/rIxtH1SMUBYX8PPTUPNv/PLgCKAMebj.jpeg?w=888)](https://sellfy.com/p/Acjr)
+<br><br>
+
+[![elegant typography](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/mvD1lqiBZh99tsFNNTdb/B5cc4sU2VQ.jpeg?w=888)](https://sellfy.com/p/Acjr)
+<br><br>
+
+[![github stars](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/FKRl4yxGOegXQug9NwfS/JNQpSWYXFA.jpeg?w=888)](https://sellfy.com/p/Acjr)
 <br><br>
 
 A theme by
