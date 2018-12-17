@@ -12,29 +12,29 @@ A beautiful, clean, and responsive theme for Ghost. [(Pay what you want 💸)](h
 <br><br>
 [![Boo logo](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/mWST66S8IsFENkC13lXk/d05AUxswkS.jpeg?w=888)](https://sellfy.com/p/Acjr)
 
-[![100% responsive](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/zIfo5LI1GvWzkJA8Nl3T/x3rFYKJ2qH.jpeg?w=888)](https://sellfy.com/p/Acjr)
+[![100% responsive](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/tbDYR5F6rrR7CFzwWH4B/HtfJPIi7Sf.jpeg?w=888)](https://sellfy.com/p/Acjr)
 
-[![minimalist home page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/3IDCDZCSKYeMII6xOl1M/DlLArZgHZW.jpeg?w=888)](https://sellfy.com/p/Acjr)
+[![minimalist home page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/y55wAuIzcby3e023VNro/rZLghrhEnE.jpeg?w=888)](https://sellfy.com/p/Acjr)
 
-[![author page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/Qb2TzpZlU3s1hkUXHpjt/qwuoWriONU.jpeg?w=888)](https://sellfy.com/p/Acjr)
+[![author page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/Jo8nOllEkhXV0Bn14VXJ/0Jjwh0PViE.jpeg?w=888)](https://sellfy.com/p/Acjr)
 
-[![beautiful menu](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/rm7E7b50HO3Adfm6Mxno/Td1v4lrdkb.jpeg?w=888)](https://sellfy.com/p/Acjr)
+[![beautiful menu](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/rHY2qtXfDtRv5CpTJFT3/3WDoA9dv2f.jpeg?w=888)](https://sellfy.com/p/Acjr)
 
-[![clean post list](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/n2dNY7t48QPDH6PxjxV0/U6KTfQ9bfN.jpeg?w=888)](https://sellfy.com/p/Acjr)
+[![clean post list](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/cArtR0fE6NBpVk0fIrFY/39bZhkkAZG.jpeg?w=888)](https://sellfy.com/p/Acjr)
 
-[![tags page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/6frNQtivghAlyL9UtCL9/RMQOV1cRTv.jpeg?w=888)](https://sellfy.com/p/Acjr)
+[![tags page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/vNcHMr91AVcPOmqekqLI/FrWD3m17Xz.jpeg?w=888)](https://sellfy.com/p/Acjr)
 
-[![post previews](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/gqMWpAhjQJrALMNFy9qI/qARZZ9Wbx2.jpeg?w=888)](https://sellfy.com/p/Acjr)
+[![post previews](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/X3hSLNvVqTWrZdhBl3mw/fV9fIQ9k4q.jpeg?w=888)](https://sellfy.com/p/Acjr)
 
-[![custom 404 page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/sXakMtZ170A1WEnEqGkV/OSTKPzxrZY.jpeg?w=888)](https://sellfy.com/p/Acjr)
+[![custom 404 page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/cG6svGcBWjyQGva6u2YC/834bbJGbIV.jpeg?w=888)](https://sellfy.com/p/Acjr)
 
-[![post images](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/rIxtH1SMUBYX8PPTUPNv/PLgCKAMebj.jpeg?w=888)](https://sellfy.com/p/Acjr)
+[![post images](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/miRDBPGJKzLVx7LYZi4d/uU1KTc4z7z.jpeg?w=888)](https://sellfy.com/p/Acjr)
 
-[![elegant typography](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/mvD1lqiBZh99tsFNNTdb/B5cc4sU2VQ.jpeg?w=888)](https://sellfy.com/p/Acjr)
+[![elegant typography](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/ki8iLGB7QKQxuU5b2GjZ/o62uvl0Y4Y.jpeg?w=888)](https://sellfy.com/p/Acjr)
 
-[![github stars](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/FKRl4yxGOegXQug9NwfS/JNQpSWYXFA.jpeg?w=888)](https://sellfy.com/p/Acjr)
+[![github stars](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/SPjs1mTyhQdh6US2HmpB/CMOT1y0vFj.jpeg?w=888)](https://sellfy.com/p/Acjr)
 
-[![a theme by Poetic Themes](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/CiPhlomJOofYeQmAOO2D/Jc6FLWHh9U.jpeg?w=888)](https://sellfy.com/p/Acjr)
+[![a theme by Poetic Themes](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/mLRKS16jmVJ5VKUAWK83/p5SC4BqGnZ.jpeg?w=888)](https://sellfy.com/p/Acjr)
 <br><br>
 ---
 
