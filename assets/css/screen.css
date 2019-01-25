@@ -2011,6 +2011,12 @@ figcaption {
         border-left: none;
     }
 
+    section.post-meta,
+    .post-meta .post-date,
+    .post-meta a {
+        font-size: 15px !important;
+    }
+
 }
 
 
@@ -2179,7 +2185,6 @@ figcaption {
     .post-template .post-date,
     .page-template .post-date {
         display: inline-block;
-        font-size: 1.3rem;
     }
 
     hr {
