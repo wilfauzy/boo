@@ -10,36 +10,36 @@
 <br><br>
 A beautiful, clean, and responsive theme for Ghost.
 <br><br>
-[![Boo logo](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/mWST66S8IsFENkC13lXk/d05AUxswkS.jpeg?w=888)](https://github.com/PoeticThemes/boo)
+[![Boo logo](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/mWST66S8IsFENkC13lXk/d05AUxswkS.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases)
 
-[![100% responsive](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/tbDYR5F6rrR7CFzwWH4B/HtfJPIi7Sf.jpeg?w=888)](https://github.com/PoeticThemes/boo)
+[![100% responsive](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/tbDYR5F6rrR7CFzwWH4B/HtfJPIi7Sf.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases)
 
-[![minimalist home page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/y55wAuIzcby3e023VNro/rZLghrhEnE.jpeg?w=888)](https://github.com/PoeticThemes/boo)
+[![minimalist home page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/y55wAuIzcby3e023VNro/rZLghrhEnE.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases)
 
-[![author page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/Jo8nOllEkhXV0Bn14VXJ/0Jjwh0PViE.jpeg?w=888)](https://github.com/PoeticThemes/boo)
+[![author page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/Jo8nOllEkhXV0Bn14VXJ/0Jjwh0PViE.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases)
 
-[![beautiful menu](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/rHY2qtXfDtRv5CpTJFT3/3WDoA9dv2f.jpeg?w=888)](https://github.com/PoeticThemes/boo)
+[![beautiful menu](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/rHY2qtXfDtRv5CpTJFT3/3WDoA9dv2f.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases)
 
-[![clean post list](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/cArtR0fE6NBpVk0fIrFY/39bZhkkAZG.jpeg?w=888)](https://github.com/PoeticThemes/boo)
+[![clean post list](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/cArtR0fE6NBpVk0fIrFY/39bZhkkAZG.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases)
 
-[![tags page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/vNcHMr91AVcPOmqekqLI/FrWD3m17Xz.jpeg?w=888)](https://github.com/PoeticThemes/boo)
+[![tags page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/vNcHMr91AVcPOmqekqLI/FrWD3m17Xz.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases)
 
-[![post previews](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/X3hSLNvVqTWrZdhBl3mw/fV9fIQ9k4q.jpeg?w=888)](https://github.com/PoeticThemes/boo)
+[![post previews](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/X3hSLNvVqTWrZdhBl3mw/fV9fIQ9k4q.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases)
 
-[![custom 404 page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/cG6svGcBWjyQGva6u2YC/834bbJGbIV.jpeg?w=888)](https://github.com/PoeticThemes/boo)
+[![custom 404 page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/cG6svGcBWjyQGva6u2YC/834bbJGbIV.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases)
 
-[![post images](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/miRDBPGJKzLVx7LYZi4d/uU1KTc4z7z.jpeg?w=888)](https://github.com/PoeticThemes/boo)
+[![post images](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/miRDBPGJKzLVx7LYZi4d/uU1KTc4z7z.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases)
 
-[![elegant typography](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/ki8iLGB7QKQxuU5b2GjZ/o62uvl0Y4Y.jpeg?w=888)](https://github.com/PoeticThemes/boo)
+[![elegant typography](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/ki8iLGB7QKQxuU5b2GjZ/o62uvl0Y4Y.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases)
 
-[![github stars](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/SPjs1mTyhQdh6US2HmpB/CMOT1y0vFj.jpeg?w=888)](https://github.com/PoeticThemes/boo)
+[![github stars](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/SPjs1mTyhQdh6US2HmpB/CMOT1y0vFj.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases)
 
-[![a theme by Poetic Themes](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/mLRKS16jmVJ5VKUAWK83/p5SC4BqGnZ.jpeg?w=888)](https://github.com/PoeticThemes/boo)
+[![a theme by Poetic Themes](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/mLRKS16jmVJ5VKUAWK83/p5SC4BqGnZ.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases)
 <br><br>
 ---
 
 # Installation 🚀
-1. Download the [latest version of Boo](https://github.com/PoeticThemes/boo/releases) (Please consider [paying what you want for it ☕️](https://github.com/PoeticThemes/boo))
+1. Download the [latest version of Boo](https://github.com/PoeticThemes/boo/releases) (Please consider [paying what you want for it ☕️](https://github.com/PoeticThemes/boo/releases))
 2. Log into your blog: **yourblog.ghost.io/ghost** [(Don't have Ghost?](https://ghost.org))
 3. Select **General** from the navigation menu on the left of your admin area.
 4. Scroll down to the **Themes** section and click on the green **Upload a Theme** button.
@@ -100,4 +100,4 @@ Take this quick <a href="https://form.jotform.co/70745196071862">30-second surve
 [![GitHub forks](https://img.shields.io/github/forks/PoeticThemes/boo.svg)](https://github.com/PoeticThemes/boo/network)
 [![GitHub stars](https://img.shields.io/github/stars/PoeticThemes/boo.svg?style=social&label=Star)](https://github.com/PoeticThemes/boo/stargazers)
 
-[![Poetic Themes](https://i.imgur.com/VImilVs.jpg)](https://github.com/PoeticThemes/boo)
+[![Poetic Themes](https://i.imgur.com/VImilVs.jpg)](https://github.com/PoeticThemes/boo/releases)
