@@ -1097,12 +1097,9 @@ body:not(.page-template) .post-title {
 }
 
 .post-date {
-    display: inline-block;
     margin-left: 8px;
-    padding-left: 12px;
+    padding-left: 10px;
     border-left: #BDBDBD 1px solid;
-    font-size: 15px;
-    white-space: nowrap;
 }
 
 .user-image {
@@ -2011,14 +2008,11 @@ figcaption {
         border-left: none;
     }
 
-    .post-template .post-meta,
-    .post-template .post-meta .post-date,
-    .post-template .post-meta a {
-        font-size: 15px !important;
+    section.post-meta {
+        font-size: 12px !important;
     }
 
-    footer.post-meta,
-    footer.post-meta a {
+    footer.post-meta {
         font-size: 12px !important;
     }
 
