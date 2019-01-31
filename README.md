@@ -83,7 +83,7 @@ This theme is brought to you thanks to our awesome partners, sponsors, and suppo
 
 ---
 
-[![JetBrains](https://i.imgur.com/NLUGFsd.png)](https://www.jetbrains.com/)
+[![JetBrains](https://i.imgur.com/NLUGFsd.png)](https://www.jetbrains.com/?from=Boo_for_Ghost)
 
 **JetBrains** is a software vendor specializing in the creation of intelligent development tools. Whichever technologies you use, there's a JetBrains tool to match.
 
