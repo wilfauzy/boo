@@ -44,7 +44,7 @@ A beautiful, clean, and responsive theme for Ghost.
 2. Log into your blog: **yourblog.ghost.io/ghost** [(Don't have Ghost?](https://ghost.org))
 3. Select **General** from the navigation menu on the left of your admin area.
 4. Scroll down to the **Themes** section and click on the green **Upload a Theme** button.
-5. Choose the theme **zip file** you downloaded in step one.
+5. Choose the theme **ZIP file** you downloaded in step one.
 
 
 # Bug reports 🐞
@@ -53,7 +53,7 @@ Found a bug? No problem, [click here](https://github.com/PoeticThemes/boo/issues
 
 # FAQ 💬
 ### Have problems installing this theme?
-You can find more detailed instructions [here](https://help.ghost.org/hc/en-us/articles/223241628-Uploading-Themes).
+Send us an email to support@poeticthemes.com
 
 
 ### Something looks wrong compared to the demo?
