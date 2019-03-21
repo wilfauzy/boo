@@ -33,7 +33,7 @@ A beautiful, clean, and responsive theme for Ghost.
 
 [![elegant typography](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/ki8iLGB7QKQxuU5b2GjZ/o62uvl0Y4Y.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases)
 
-[![github stars](https://poeticthemes.com/images/themes/ghost/boo/github-stars.jpg)](https://github.com/PoeticThemes/boo/releases)
+[![github stars](https://poeticthemes.com/images/themes/ghost/boo/130-stars.jpg)](https://github.com/PoeticThemes/boo/releases)
 
 [![a theme by Poetic Themes](https://poeticthemes.com/images/themes/ghost/boo/a-theme-by-poetic-themes.jpg)](https://boo-demo.poeticthemes.com)
 
