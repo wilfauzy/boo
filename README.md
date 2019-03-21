@@ -35,7 +35,7 @@ A beautiful, clean, and responsive theme for Ghost.
 
 [![github stars](https://poeticthemes.com/images/themes/ghost/boo/github-stars.jpg)](https://github.com/PoeticThemes/boo/releases)
 
-[![theme by](https://poeticthemes.com/images/themes/ghost/boo/a-theme-by-poetic-themes.jpg)](https://github.com/PoeticThemes/boo/releases)
+[![a theme by Poetic Themes](https://poeticthemes.com/images/themes/ghost/boo/a-theme-by-poetic-themes.jpg)](https://boo-demo.poeticthemes.com)
 
 ---
 
@@ -101,4 +101,4 @@ Take this quick <a href="https://form.jotform.co/70745196071862">30-second surve
 [![GitHub forks](https://img.shields.io/github/forks/PoeticThemes/boo.svg)](https://github.com/PoeticThemes/boo/network)
 [![GitHub stars](https://img.shields.io/github/stars/PoeticThemes/boo.svg?style=social&label=Star)](https://github.com/PoeticThemes/boo/stargazers)
 
-[![Poetic Themes](https://i.imgur.com/VImilVs.jpg)](https://github.com/PoeticThemes/boo/releases)
+[![Poetic Themes](https://i.imgur.com/VImilVs.jpg)](https://boo-demo.poeticthemes.com)
