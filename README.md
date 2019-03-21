@@ -11,6 +11,7 @@
 A beautiful, clean, and responsive theme for Ghost.
 <br><br>
 [![Boo logo](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/mWST66S8IsFENkC13lXk/d05AUxswkS.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases)
+<br><br><br><br>
 
 [![100% responsive](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/tbDYR5F6rrR7CFzwWH4B/HtfJPIi7Sf.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases)
 
@@ -32,7 +33,7 @@ A beautiful, clean, and responsive theme for Ghost.
 
 [![elegant typography](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/ki8iLGB7QKQxuU5b2GjZ/o62uvl0Y4Y.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases)
 
-[![github stars](https://poeticthemes.com/images/themes/ghost/boo/stars.jpg)](https://github.com/PoeticThemes/boo/releases)
+[![github stars](https://poeticthemes.com/images/themes/ghost/boo/github-stars.jpg)](https://github.com/PoeticThemes/boo/releases)
 
 [![a theme by Poetic Themes](https://poeticthemes.com/images/themes/ghost/boo/theme-by-poetic-themes.jpg)](https://github.com/PoeticThemes/boo/releases)
 <br><br>
