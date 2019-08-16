@@ -72,21 +72,21 @@ If you like Boo, please consider supporting its development:
 This theme is brought to you thanks to our awesome partners, sponsors, and supporters.
 
 
-[![BrowserStack logo](http://i.imgur.com/bZu7EA8.png)](https://www.browserstack.com/)
+[![BrowserStack logo](https://i.imgur.com/dWqIPbo.jpg)](https://www.browserstack.com/)
 
 **Boo** is tested using [**BrowserStack**](https://www.browserstack.com/), a service that lets you test your websites and web apps on 1100+ browsers and a range of physical Android and iOS mobile devices and tablets to ensure the highest quality.
 
 ---
 
-[![Panic Transmit](https://i.imgur.com/cy0bQUH.jpg)](https://panic.com/transmit/)
+[![JetBrains](https://i.imgur.com/CH8CjmA.png)](https://www.jetbrains.com/?from=Boo_for_Ghost)
 
-**Transmit** is the gold standard of macOS file transfer apps. Upload, download, and manage files on tons of servers with an easy, familiar, and powerful UI. It’s quite good.
+**JetBrains** is a software vendor specializing in the creation of intelligent development tools. Whichever technologies you use, there's a JetBrains tool to match.
 
 ---
 
-[![JetBrains](https://i.imgur.com/NLUGFsd.png)](https://www.jetbrains.com/?from=Boo_for_Ghost)
+[![Panic Transmit](https://i.imgur.com/SdSUyhB.png)](https://panic.com/transmit/)
 
-**JetBrains** is a software vendor specializing in the creation of intelligent development tools. Whichever technologies you use, there's a JetBrains tool to match.
+**Transmit** is the gold standard of macOS file transfer apps. Upload, download, and manage files on tons of servers with an easy, familiar, and powerful UI. It’s quite good.
 
 ---
 
