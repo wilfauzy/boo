@@ -40,8 +40,8 @@ A beautiful, clean, and responsive theme for Ghost.
 ---
 
 # Installation 🚀
-1. Download the [latest version of Boo](https://github.com/PoeticThemes/boo/releases)
-2. Log into your blog: **yourblog.ghost.io/ghost** [(Don't have Ghost?](https://ghost.org))
+1. Download the [latest version of Boo](https://github.com/PoeticThemes/boo/releases).
+2. Log into your blog: **yourblog.ghost.io/ghost** [(Don't have Ghost?](https://ghost.org)).
 3. Select **General** from the navigation menu on the left of your admin area.
 4. Scroll down to the **Themes** section and click on the green **Upload a Theme** button.
 5. Choose the theme **ZIP file** you downloaded in step one.
@@ -74,7 +74,7 @@ This theme is brought to you thanks to our awesome partners, sponsors, and suppo
 
 [![BrowserStack logo](https://i.imgur.com/Bfjt4YB.jpg)](https://www.browserstack.com/)
 
-**Boo** is tested using [**BrowserStack**](https://www.browserstack.com/), a service that lets you test your websites and web apps on 1100+ browsers and a range of physical Android and iOS mobile devices and tablets to ensure the highest quality.
+[**BrowserStack**](https://www.browserstack.com/) is a service that lets you test your websites and web apps on 1100+ browsers and a range of physical Android and iOS mobile devices and tablets to ensure the highest quality.
 
 ---
 
