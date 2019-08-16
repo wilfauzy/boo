@@ -80,13 +80,13 @@ This theme is brought to you thanks to our awesome partners, sponsors, and suppo
 
 [![JetBrains](https://i.imgur.com/CH8CjmA.png)](https://www.jetbrains.com/?from=Boo_for_Ghost)
 
-**JetBrains** is a software vendor specializing in the creation of intelligent development tools. Whichever technologies you use, there's a JetBrains tool to match.
+[**JetBrains**](https://www.jetbrains.com/?from=Boo_for_Ghost) is a software vendor specializing in the creation of intelligent development tools. Whichever technologies you use, there's a JetBrains tool to match.
 
 ---
 
 [![Panic Transmit](https://i.imgur.com/SdSUyhB.png)](https://panic.com/transmit/)
 
-**Transmit** is the gold standard of macOS file transfer apps. Upload, download, and manage files on tons of servers with an easy, familiar, and powerful UI. It’s quite good.
+[**Transmit**](https://panic.com/transmit/) is the gold standard of macOS file transfer apps. Upload, download, and manage files on tons of servers with an easy, familiar, and powerful UI. It’s quite good.
 
 ---
 
