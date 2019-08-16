@@ -72,7 +72,7 @@ If you like Boo, please consider supporting its development:
 This theme is brought to you thanks to our awesome partners, sponsors, and supporters.
 
 
-[![BrowserStack logo](https://i.imgur.com/dWqIPbo.jpg)](https://www.browserstack.com/)
+[![BrowserStack logo](https://i.imgur.com/Bfjt4YB.jpg)](https://www.browserstack.com/)
 
 **Boo** is tested using [**BrowserStack**](https://www.browserstack.com/), a service that lets you test your websites and web apps on 1100+ browsers and a range of physical Android and iOS mobile devices and tablets to ensure the highest quality.
 
