@@ -35,7 +35,7 @@ A beautiful, clean, and responsive theme for Ghost.
 
 [![github stars](https://poeticthemes.com/images/themes/ghost/boo/160-stars.jpg)](https://github.com/PoeticThemes/boo/releases/latest)
 
-[![a theme by Poetic Themes](https://poeticthemes.com/images/themes/ghost/boo/a-theme-by-poetic-themes.jpg)](https://boo-demo.poeticthemes.com)
+[![a theme by Poetic Themes](https://poeticthemes.com/images/themes/ghost/boo/theme_by_poetic_themes.jpg)](https://boo-demo.poeticthemes.com)
 
 ---
 
