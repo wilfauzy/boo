@@ -1182,7 +1182,9 @@ figcaption {
     text-align: center;
     opacity: 0.68;
     font-size: 1.65rem;
-    line-height: 1em;
+    line-height: 1.4em;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .kg-width-wide {
