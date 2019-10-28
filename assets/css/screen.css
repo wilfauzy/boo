@@ -2405,6 +2405,8 @@ figcaption {
     transform: initial;
 }
 
+.kg-bookmark-publisher {}
+
 .kg-bookmark-author:after {
     content: "|";
     margin: 0 6px;
