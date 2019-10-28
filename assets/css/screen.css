@@ -2347,7 +2347,8 @@ figcaption {
 }
 
 .kg-bookmark-card.kg-card-hascaption figcaption{
-    margin-top: 5px;
+    margin-top: 10px;
+    margin-bottom: 40px;
 }
 
 .kg-bookmark-container:hover {
