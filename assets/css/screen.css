@@ -18,7 +18,8 @@
     11. Footer
     12. Media Queries (Tablet)
     13. Media Queries (Mobile)
-    14. Animations
+    14. Bookmarks
+    15. Animations
 
 */
 
@@ -1181,7 +1182,9 @@ figcaption {
     text-align: center;
     opacity: 0.68;
     font-size: 1.65rem;
-    line-height: 1em;
+    line-height: 1.4em;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .kg-width-wide {
@@ -2330,9 +2333,87 @@ figcaption {
 
 }
 
+/* ==========================================================================
+   14. Bookmarks
+   ========================================================================== */
+
+.kg-bookmark-container {
+    display: flex;
+    flex-wrap: wrap;
+    color: #424242;
+    text-decoration: none;
+    border: 1px solid #E0E0E0;
+    border-radius: 10px;
+}
+
+.kg-bookmark-card.kg-card-hascaption figcaption{
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.kg-bookmark-container:hover {
+    border: 1px solid #0091EA;
+}
+
+.kg-bookmark-container:hover + figcaption{
+    color: #0091EA;
+}
+
+.kg-bookmark-content {
+    flex-basis: 0;
+    flex-grow: 999;
+    min-width: 50%;
+    padding: 20px;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.kg-bookmark-title {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.kg-bookmark-description,
+.kg-bookmark-metadata {
+    margin-top: 5px;
+}
+
+.kg-bookmark-metadata {
+    color: #0091EA;
+}
+
+.kg-bookmark-thumbnail {
+    flex-basis: 15rem;
+    flex-grow: 1;
+    display: none;
+}
+
+.kg-bookmark-thumbnail img {
+    vertical-align: bottom;
+    object-fit: cover;
+    width: 100%;
+}
+
+.post-content .kg-bookmark-icon {
+    width: 22px;
+    height: 22px;
+    vertical-align: bottom;
+    margin-right: 7px;
+    display: initial;
+    position: initial;
+    padding: initial;
+    transform: initial;
+}
+
+.kg-bookmark-publisher {}
+
+.kg-bookmark-author:after {
+    content: "|";
+    margin: 0 6px;
+}
 
 /* ==========================================================================
-   14. Animations
+   15. Animations
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
