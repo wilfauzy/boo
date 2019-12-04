@@ -6,7 +6,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/PoeticThemes/boo.svg?style=social&label=Star)](https://github.com/PoeticThemes/boo/stargazers)
 ---
 
-[Installation](https://github.com/PoeticThemes/boo#installation-) • [FAQ](https://github.com/PoeticThemes/boo#faq-) • [Bug reports](https://github.com/PoeticThemes/boo#bug-reports-) • [Survey](https://form.jotform.co/70745196071862)
+[Installation](https://github.com/PoeticThemes/boo#installation-) • [Development](https://github.com/PoeticThemes/boo#development-) • [FAQ](https://github.com/PoeticThemes/boo#faq-) • [Bug reports](https://github.com/PoeticThemes/boo#bug-reports-) • [Survey](https://form.jotform.co/70745196071862)
 <br><br>
 A beautiful, clean, and responsive theme for Ghost.
 <br><br>
@@ -46,6 +46,12 @@ A beautiful, clean, and responsive theme for Ghost.
 4. Scroll down to the **Themes** section and click on the green **Upload a Theme** button.
 5. Choose the theme **ZIP file** you downloaded in step one.
 
+# Development 💻
+The easiest way to start developing this theme in seconds is using the included docker-compose.yml file to launch your development environment:
+
+1. Fork this repository and clone it on your local machine
+2. Make sure *Docker Desktop* is running and in the project directory run `docker-compose pull && docker-compose up -d`
+3. Open `http://localhost` on your web browser and start developing
 
 # Bug reports 🐞
 Found a bug? No problem, [click here](https://github.com/PoeticThemes/boo/issues/new) to report it.
