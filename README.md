@@ -99,9 +99,6 @@ This theme is brought to you thanks to our awesome partners, sponsors, and suppo
 ---
 <br><br>
 
-Take this quick <a href="https://form.jotform.co/70745196071862">30-second survey</a> to help us improve this theme for you.
-
-
 [![Demo status](https://img.shields.io/badge/live%20demo-online-brightgreen.svg)](https://boo-demo.poeticthemes.com)
 [![Release shield](https://img.shields.io/github/release/PoeticThemes/boo.svg)](https://github.com/PoeticThemes/boo/releases)
 [![Ghost version shield](https://img.shields.io/badge/ghost%20version->=%202.2.0-00BCD4.svg)](https://github.com/PoeticThemes/boo/releases)
