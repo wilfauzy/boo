@@ -7,13 +7,15 @@
 -
 
 [Features](https://github.com/PoeticThemes/boo#features-) • [Installation](https://github.com/PoeticThemes/boo#installation-) • [Development](https://github.com/PoeticThemes/boo#development-) • [FAQ](https://github.com/PoeticThemes/boo#faq-) • [Bug reports](https://github.com/PoeticThemes/boo#bug-reports-) • [Survey](https://form.jotform.co/70745196071862)
-<br><br>
+<br>
 
 # Boo
 
 A beautiful, clean, and responsive theme for Ghost.
-<br><br>
+<br>
 [![Boo logo](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/mWST66S8IsFENkC13lXk/d05AUxswkS.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases/latest)
+
+---
 
 # Features 🌟
 
@@ -50,6 +52,8 @@ A beautiful, clean, and responsive theme for Ghost.
 4. Scroll down to the **Themes** section and click on the green **Upload a Theme** button.
 5. Choose the theme **ZIP file** you downloaded in step one.
 
+---
+
 # Development 💻
 The easiest way to start developing this theme in seconds is using the included ***docker-compose.yml*** file to launch your development environment:
 
@@ -57,18 +61,21 @@ The easiest way to start developing this theme in seconds is using the included 
 2. Make sure **Docker Desktop** is running and in the project directory run `docker-compose pull && docker-compose up -d`.
 3. Open `http://localhost` on your web browser and start developing.
 
+---
+
 # Bug reports 🐞
 Found a bug? No problem, [click here](https://github.com/PoeticThemes/boo/issues/new) to report it.
 
+---
 
 # FAQ 💬
 ### Have problems installing this theme?
 Send us an email to support@poeticthemes.com.
 
-
 ### Something looks wrong compared to the demo?
 Check for conflicting code in the code injection section of your admin area.
 
+---
 
 # Show us your love ❤️
 If you like Boo, please consider supporting its development:
@@ -76,6 +83,7 @@ If you like Boo, please consider supporting its development:
 - Star it 🌟 [![GitHub stars](https://img.shields.io/github/stars/PoeticThemes/boo.svg?style=social&label=Star)](https://github.com/PoeticThemes/boo/stargazers)
 - Fill out this this <a href="https://form.jotform.co/70745196071862">30-second survey</a> ✏️
 
+---
 
 # Partners and supporters 👊
 
@@ -86,7 +94,7 @@ This theme is brought to you thanks to our awesome partners, sponsors, and suppo
 
 [**BrowserStack**](https://www.browserstack.com/) is a service that lets you test your websites and web apps on 1100+ browsers and a range of physical Android and iOS mobile devices and tablets to ensure the highest quality.
 
----
+
 
 [![JetBrains](https://i.imgur.com/CH8CjmA.png)](https://www.jetbrains.com/?from=Boo_for_Ghost)
 
