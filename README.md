@@ -14,8 +14,7 @@
 A beautiful, clean, and responsive theme for Ghost.
 <br><br>
 [![Boo logo](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/mWST66S8IsFENkC13lXk/d05AUxswkS.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases/latest)
-
----
+<br><br>
 
 # Features 🌟
 
@@ -43,7 +42,7 @@ A beautiful, clean, and responsive theme for Ghost.
 
 [![a theme by Poetic Themes](https://poeticthemes.com/images/themes/ghost/boo/theme_by_poetic_themes.jpg)](https://boo-demo.poeticthemes.com)
 
----
+<br><br>
 
 # Installation 🚀
 1. Download the [latest version of Boo](https://github.com/PoeticThemes/boo/releases/latest).
@@ -52,7 +51,7 @@ A beautiful, clean, and responsive theme for Ghost.
 4. Scroll down to the **Themes** section and click on the green **Upload a Theme** button.
 5. Choose the theme **ZIP file** you downloaded in step one.
 
----
+<br><br>
 
 # Development 💻
 The easiest way to start developing this theme in seconds is using the included ***docker-compose.yml*** file to launch your development environment:
@@ -61,12 +60,12 @@ The easiest way to start developing this theme in seconds is using the included 
 2. Make sure **Docker Desktop** is running and in the project directory run `docker-compose pull && docker-compose up -d`.
 3. Open `http://localhost` on your web browser and start developing.
 
----
+<br><br>
 
 # Bug reports 🐞
 Found a bug? No problem, [click here](https://github.com/PoeticThemes/boo/issues/new) to report it.
 
----
+<br><br>
 
 # FAQ 💬
 ### Have problems installing this theme?
@@ -75,7 +74,7 @@ Send us an email to support@poeticthemes.com.
 ### Something looks wrong compared to the demo?
 Check for conflicting code in the code injection section of your admin area.
 
----
+<br><br>
 
 # Show us your love ❤️
 If you like Boo, please consider supporting its development:
@@ -83,7 +82,7 @@ If you like Boo, please consider supporting its development:
 - Star it 🌟 [![GitHub stars](https://img.shields.io/github/stars/PoeticThemes/boo.svg?style=social&label=Star)](https://github.com/PoeticThemes/boo/stargazers)
 - Fill out this this <a href="https://form.jotform.co/70745196071862">30-second survey</a> ✏️
 
----
+<br><br>
 
 # Partners and supporters 👊
 
