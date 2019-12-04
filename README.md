@@ -97,10 +97,10 @@ This theme is brought to you thanks to our awesome partners, sponsors, and suppo
 [**Transmit**](https://panic.com/transmit/) is the gold standard of macOS file transfer apps. Upload, download, and manage files on tons of servers with an easy, familiar, and powerful UI. It’s quite good.
 
 ---
+<br><br>
 
 Take this quick <a href="https://form.jotform.co/70745196071862">30-second survey</a> to help us improve this theme for you.
 
----
 
 [![Demo status](https://img.shields.io/badge/live%20demo-online-brightgreen.svg)](https://boo-demo.poeticthemes.com)
 [![Release shield](https://img.shields.io/github/release/PoeticThemes/boo.svg)](https://github.com/PoeticThemes/boo/releases)
