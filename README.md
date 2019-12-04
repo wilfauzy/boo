@@ -12,8 +12,11 @@
 # Boo
 
 A beautiful, clean, and responsive theme for Ghost.
+
 <br><br>
+
 [![Boo logo](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/mWST66S8IsFENkC13lXk/d05AUxswkS.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases/latest)
+
 <br><br>
 
 # Features 🌟
@@ -88,12 +91,11 @@ If you like Boo, please consider supporting its development:
 
 This theme is brought to you thanks to our awesome partners, sponsors, and supporters.
 
-
 [![BrowserStack logo](https://i.imgur.com/Bfjt4YB.jpg)](https://www.browserstack.com/)
 
 [**BrowserStack**](https://www.browserstack.com/) is a service that lets you test your websites and web apps on 1100+ browsers and a range of physical Android and iOS mobile devices and tablets to ensure the highest quality.
 
-
+---
 
 [![JetBrains](https://i.imgur.com/CH8CjmA.png)](https://www.jetbrains.com/?from=Boo_for_Ghost)
 
