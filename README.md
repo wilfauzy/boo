@@ -11,7 +11,6 @@
 A beautiful, clean, and responsive theme for Ghost.
 <br><br>
 [![Boo logo](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/mWST66S8IsFENkC13lXk/d05AUxswkS.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases/latest)
-<br><br><br><br>
 
 [![100% responsive](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/tbDYR5F6rrR7CFzwWH4B/HtfJPIi7Sf.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases/latest)
 
@@ -49,9 +48,9 @@ A beautiful, clean, and responsive theme for Ghost.
 # Development 💻
 The easiest way to start developing this theme in seconds is using the included docker-compose.yml file to launch your development environment:
 
-1. Fork this repository and clone it on your local machine
-2. Make sure *Docker Desktop* is running and in the project directory run `docker-compose pull && docker-compose up -d`
-3. Open `http://localhost` on your web browser and start developing
+1. Fork this repository and clone it on your local machine.
+2. Make sure *Docker Desktop* is running and in the project directory run `docker-compose pull && docker-compose up -d`.
+3. Open `http://localhost` on your web browser and start developing.
 
 # Bug reports 🐞
 Found a bug? No problem, [click here](https://github.com/PoeticThemes/boo/issues/new) to report it.
@@ -59,7 +58,7 @@ Found a bug? No problem, [click here](https://github.com/PoeticThemes/boo/issues
 
 # FAQ 💬
 ### Have problems installing this theme?
-Send us an email to support@poeticthemes.com
+Send us an email to support@poeticthemes.com.
 
 
 ### Something looks wrong compared to the demo?
