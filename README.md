@@ -4,14 +4,15 @@
 [![GitHub issues](https://img.shields.io/github/issues/PoeticThemes/boo.svg)](https://github.com/PoeticThemes/boo/issues)
 [![GitHub forks](https://img.shields.io/github/forks/PoeticThemes/boo.svg)](https://github.com/PoeticThemes/boo/network)
 [![GitHub stars](https://img.shields.io/github/stars/PoeticThemes/boo.svg?style=social&label=Star)](https://github.com/PoeticThemes/boo/stargazers)
----
+-
 
-[Installation](https://github.com/PoeticThemes/boo#installation-) • [FAQ](https://github.com/PoeticThemes/boo#faq-) • [Bug reports](https://github.com/PoeticThemes/boo#bug-reports-) • [Survey](https://form.jotform.co/70745196071862)
+[Installation](https://github.com/PoeticThemes/boo#installation-) • [Development](https://github.com/PoeticThemes/boo#development-) • [FAQ](https://github.com/PoeticThemes/boo#faq-) • [Bug reports](https://github.com/PoeticThemes/boo#bug-reports-) • [Survey](https://form.jotform.co/70745196071862)
 <br><br>
 A beautiful, clean, and responsive theme for Ghost.
 <br><br>
 [![Boo logo](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/mWST66S8IsFENkC13lXk/d05AUxswkS.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases/latest)
-<br><br><br><br>
+
+---
 
 [![100% responsive](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/tbDYR5F6rrR7CFzwWH4B/HtfJPIi7Sf.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases/latest)
 
@@ -46,6 +47,12 @@ A beautiful, clean, and responsive theme for Ghost.
 4. Scroll down to the **Themes** section and click on the green **Upload a Theme** button.
 5. Choose the theme **ZIP file** you downloaded in step one.
 
+# Development 💻
+The easiest way to start developing this theme in seconds is using the included ***docker-compose.yml*** file to launch your development environment:
+
+1. Fork this repository and clone it on your local machine.
+2. Make sure **Docker Desktop** is running and in the project directory run `docker-compose pull && docker-compose up -d`.
+3. Open `http://localhost` on your web browser and start developing.
 
 # Bug reports 🐞
 Found a bug? No problem, [click here](https://github.com/PoeticThemes/boo/issues/new) to report it.
@@ -53,7 +60,7 @@ Found a bug? No problem, [click here](https://github.com/PoeticThemes/boo/issues
 
 # FAQ 💬
 ### Have problems installing this theme?
-Send us an email to support@poeticthemes.com
+Send us an email to support@poeticthemes.com.
 
 
 ### Something looks wrong compared to the demo?
