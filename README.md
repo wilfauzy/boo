@@ -17,6 +17,7 @@ A beautiful, clean, and responsive theme for Ghost.
 
 
 
+
 # Features 🌟
 [![100% responsive](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/tbDYR5F6rrR7CFzwWH4B/HtfJPIi7Sf.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases/latest)
 
