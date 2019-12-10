@@ -2626,6 +2626,11 @@ figcaption {
     .author-profile:after {
         display: none;
     }
+
+    /* Share buttons */
+    .post-footer .share a {
+        color: #9e9e9e;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
