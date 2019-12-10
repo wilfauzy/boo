@@ -2422,6 +2422,11 @@ figcaption {
     body {
         background: #424242;
     }
+
+    /* Background color */
+    .site-wrapper {
+        background: #363534;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
