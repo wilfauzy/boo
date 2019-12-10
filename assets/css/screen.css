@@ -2616,6 +2616,16 @@ figcaption {
     .author-template .author-bio {
         color: #E0E0E0;
     }
+
+    /* Author profile divider */
+    .extra-pagination,
+    .author-profile {
+        border-bottom: #545352 1px solid;
+    }
+    .extra-pagination:after,
+    .author-profile:after {
+        display: none;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
