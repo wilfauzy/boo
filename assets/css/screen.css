@@ -2435,6 +2435,11 @@ figcaption {
     .read-next-story.no-cover {
         background-color: #2F2E2E;
     }
+
+    /* Page title */
+    .page-title {
+        color: #E0E0E0;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
