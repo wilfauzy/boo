@@ -2568,6 +2568,14 @@ figcaption {
     hr {
         border-top: #545352 1px solid;
     }
+
+    /* Content table */
+    table,
+    thead,
+    tbody,
+    table tr th {
+        color: #E0E0E0;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
