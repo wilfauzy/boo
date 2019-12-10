@@ -2532,6 +2532,11 @@ figcaption {
         color: #eeeeee;
         border-color: #e0e0e0;
     }
+
+    /* Content headings */
+    h1, h2, h3, h4, h5, h6 {
+        color: #E0E0E0;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
