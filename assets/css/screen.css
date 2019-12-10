@@ -2478,6 +2478,15 @@ figcaption {
         background-color: transparent;
         border-color: #BDBDBD;
     }
+
+    /* Menu button no-image:hover */
+    .nav-closed .no-cover .menu-button:hover,
+    .post-template.nav-closed .main-header.no-cover .menu-button:hover,
+    .author-template.nav-closed .main-header.no-cover .menu-button:hover {
+        color: #eeeeee;
+        background-color: transparent;
+        border-color: #e0e0e0;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
