@@ -53,8 +53,10 @@ A beautiful, clean, and responsive theme for Ghost.
 The easiest way to start developing this theme in seconds is using the included ***docker-compose.yml*** file to launch your development environment:
 
 1. Fork this repository and clone it on your local machine.
-2. Make sure **Docker Desktop** is running and in the project directory run `docker-compose pull && docker-compose up -d`.
+2. Make sure **Docker Desktop** is running and in the project directory run `docker-compose pull && docker-compose up -d`
 3. Open `http://localhost` on your web browser and start developing.
+
+***Want to implement this for you theme?*** Take a look at [Ghost for Theme Creators](https://github.com/PoeticThemes/ghost-for-theme-creators).
 <br><br>
 
 # Bug reports 🐞
