@@ -2542,6 +2542,12 @@ figcaption {
     body {
         color: #E0E0E0;
     }
+
+    /* Content code */
+    code, tt {
+        background-color: #212121;
+        border: none;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
