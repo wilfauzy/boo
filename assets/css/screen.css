@@ -2610,6 +2610,12 @@ figcaption {
     .read-next-story p {
         color: #E0E0E0;
     }
+
+    /* Author bio */
+    .post-footer p,
+    .author-template .author-bio {
+        color: #E0E0E0;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
