@@ -2427,6 +2427,14 @@ figcaption {
     .site-wrapper {
         background: #363534;
     }
+
+    /* No-cover background color */
+    .no-cover.main-header,
+    .main-header,
+    .read-next-story,
+    .read-next-story.no-cover {
+        background-color: #2F2E2E;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
