@@ -2646,6 +2646,12 @@ figcaption {
         color: #f5f5f5;
         text-decoration: none;
     }
+
+    /* Author image in footer */
+    .author-image {
+        background-color: #363534;
+        box-shadow: #545352 0 0 0 1px;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
