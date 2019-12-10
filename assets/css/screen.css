@@ -1900,7 +1900,7 @@ figcaption {
         max-height: 60vh;
     }
 
-    .home-template .page-title,.home-template .page-description,
+    .home-template .page-title, .home-template .page-description,
     .paged .page-title, .paged .page-description {
         display: inherit;
     }
@@ -1910,7 +1910,9 @@ figcaption {
     }
 
     .scroll-down,
-    .home-template .main-header:after { display: none; }
+    .home-template .main-header:after {
+        display: none;
+    }
 
     .blog-logo img {
         padding: 4px 0;
@@ -1955,17 +1957,18 @@ figcaption {
         display: block;
         margin: 1.5rem 0;
     }
+
     .author-profile .author-meta span {
         font-size: 1.6rem;
     }
 
     .post-head.main-header {
-        height:45vh;
+        height: 45vh;
     }
 
     .tag-head.main-header,
     .author-head.main-header,
-    .paged .main-header{
+    .paged .main-header {
         height: 30vh;
     }
 
@@ -2004,7 +2007,7 @@ figcaption {
     }
 
     .read-next-story.no-cover + .read-next-story.no-cover {
-        border-top: rgba(0,0,100,0.06) 1px solid;
+        border-top: rgba(0, 0, 100, 0.06) 1px solid;
         border-left: none;
     }
 
@@ -2745,5 +2748,5 @@ figcaption {
 
 /* ==========================================================================
    End of file. Animations should be the last thing here. Do not add stuff
-   below this point, or it will probably fuck everything up.
+   below this point.
    ========================================================================== */
