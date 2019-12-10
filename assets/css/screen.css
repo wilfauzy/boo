@@ -2537,6 +2537,11 @@ figcaption {
     h1, h2, h3, h4, h5, h6 {
         color: #E0E0E0;
     }
+
+    /* Content text */
+    body {
+        color: #E0E0E0;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
