@@ -2563,6 +2563,11 @@ figcaption {
     blockquote {
         border-left: #a8a8a8 .4em solid;
     }
+
+    /* Content horizontal rule */
+    hr {
+        border-top: #545352 1px solid;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
