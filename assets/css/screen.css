@@ -2590,6 +2590,11 @@ figcaption {
         background-color: #212121;
         border: none;
     }
+
+    /* Related posts no-image heading */
+    .read-next-story.no-cover h2 {
+        color: #E0E0E0;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
