@@ -2455,6 +2455,13 @@ figcaption {
     .scroll-down:hover {
         color: #fafafa;
     }
+
+    /* Menu button over image */
+    .nav-closed .menu-button {
+        color: #E0E0E0;
+        background-color: #363534;
+        border-color: #363534;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
