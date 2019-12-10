@@ -2440,6 +2440,11 @@ figcaption {
     .page-title {
         color: #E0E0E0;
     }
+
+    /* Page description */
+    .page-description {
+        color: #E0E0E0;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
