@@ -2667,6 +2667,13 @@ figcaption {
     .nav {
         background-color: #3C3B3A;
     }
+
+    /* Hide down-arrow background color */
+    .home-template .main-header.no-cover:after {
+        display: none;
+    }
+
+}
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
