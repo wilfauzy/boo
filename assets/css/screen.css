@@ -2445,6 +2445,11 @@ figcaption {
     .page-description {
         color: #E0E0E0;
     }
+
+    /* Scroll-down arrow */
+    .scroll-down {
+        color: #E0E0E0;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
