@@ -2497,6 +2497,12 @@ figcaption {
     .post-excerpt p {
         color: #E0E0E0;
     }
+
+    /* Meta link */
+    .post-meta a,
+    .author-meta a {
+        color: #9E9E9E;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
