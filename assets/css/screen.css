@@ -2520,6 +2520,11 @@ figcaption {
     .pagination {
         color: #E0E0E0;
     }
+
+    /* Pagination buttons */
+    .pagination a {
+        color: #E0E0E0;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
