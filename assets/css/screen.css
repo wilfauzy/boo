@@ -2548,6 +2548,11 @@ figcaption {
         background-color: #212121;
         border: none;
     }
+
+    /* Content links */
+    a {
+        color: #E0E0E0;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
