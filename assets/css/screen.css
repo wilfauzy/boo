@@ -2515,6 +2515,11 @@ figcaption {
     .post {
         border-bottom: #545352 1px solid;
     }
+
+    /* Pagination indicator */
+    .pagination {
+        color: #E0E0E0;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
