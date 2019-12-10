@@ -2410,7 +2410,13 @@ figcaption {
 }
 
 /* ==========================================================================
-   15. Animations
+   15. Dark Mode
+
+   Check https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme
+   for compatible browsers.
+   ========================================================================== */
+
+@media (prefers-color-scheme: dark) {
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
