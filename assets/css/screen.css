@@ -2503,6 +2503,13 @@ figcaption {
     .author-meta a {
         color: #9E9E9E;
     }
+
+    /* Meta link hover */
+    .post-meta a:hover,
+    .author-meta a:hover {
+        color: #bdbdbd;
+        text-decoration: none;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
