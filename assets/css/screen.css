@@ -2595,6 +2595,11 @@ figcaption {
     .read-next-story.no-cover h2 {
         color: #E0E0E0;
     }
+
+    /* Related posts no-image excerpt */
+    .read-next-story.no-cover p {
+        color: #E0E0E0;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
