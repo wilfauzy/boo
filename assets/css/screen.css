@@ -2417,6 +2417,11 @@ figcaption {
    ========================================================================== */
 
 @media (prefers-color-scheme: dark) {
+
+    /* Body background color */
+    body {
+        background: #424242;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
