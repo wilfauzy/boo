@@ -2657,6 +2657,16 @@ figcaption {
     .author-profile .author-image {
         padding: 0;
     }
+
+    /* Menu background */
+    .nav-opened .menu-button {
+        border: none;
+        background-color: #3C3B3A;
+    }
+
+    .nav {
+        background-color: #3C3B3A;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
