@@ -2450,6 +2450,11 @@ figcaption {
     .scroll-down {
         color: #E0E0E0;
     }
+
+    /* Scroll-down arrow hover */
+    .scroll-down:hover {
+        color: #fafafa;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
