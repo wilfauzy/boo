@@ -2469,6 +2469,15 @@ figcaption {
         background-color: #424242;
         border-color: #3C3B3A;
     }
+
+    /* Menu button no-image */
+    .nav-closed .no-cover .menu-button,
+    .post-template.nav-closed .main-header.no-cover .menu-button,
+    .author-template.nav-closed .main-header.no-cover .menu-button {
+        color: #E0E0E0;
+        background-color: transparent;
+        border-color: #BDBDBD;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
