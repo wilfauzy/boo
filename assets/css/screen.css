@@ -2510,6 +2510,11 @@ figcaption {
         color: #bdbdbd;
         text-decoration: none;
     }
+
+    /* Index divider */
+    .post {
+        border-bottom: #545352 1px solid;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
