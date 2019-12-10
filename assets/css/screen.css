@@ -2576,6 +2576,14 @@ figcaption {
     table tr th {
         color: #E0E0E0;
     }
+
+    table td {
+        border-top: #E0E0E0 1px solid;
+    }
+
+    table tbody > tr:nth-child(odd) > td, table tbody > tr:nth-child(odd) > th {
+        background-color: transparent;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
