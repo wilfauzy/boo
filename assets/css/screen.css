@@ -2487,6 +2487,11 @@ figcaption {
         background-color: transparent;
         border-color: #e0e0e0;
     }
+
+    /* Index, post title */
+    .post-title a {
+        color: #E0E0E0;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
