@@ -2462,6 +2462,13 @@ figcaption {
         background-color: #363534;
         border-color: #363534;
     }
+
+    /* Menu button over image hover */
+    .nav-closed .menu-button:hover {
+        color: #eeeeee;
+        background-color: #424242;
+        border-color: #3C3B3A;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
