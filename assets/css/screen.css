@@ -2674,6 +2674,24 @@ figcaption {
     }
 
 }
+
+/* Mobile styles for Dark Mode */
+@media only screen and (max-width: 500px) {
+
+    /* Menu button */
+    .main-nav.overlay .menu-button {
+        background-color: transparent;
+    }
+
+    /* Post footer  */
+    .post-footer .author {
+        border-bottom: #545352 1px solid;
+    }
+
+}
+
+/* ==========================================================================
+   16. Animations
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
