@@ -58,10 +58,36 @@
                     font-weight: normal;
                 }
             }
+
+            @media (prefers-color-scheme: dark) {
+
+                /* Background color */
+                body {
+                    background: #363534;
+                }
+
+                h1 {
+                    color: #E0E0E0;
+                }
+
+                h2 {
+                    color: #bdbdbd;
+                }
+
+                #home-link {
+                    color: #64b5f6;
+                }
+
+            }
         </style>
     </head>
     <body>
-        <a href="{{@site.url}}"><img src="{{asset "img/error.png"}}"></a>
+        <a href="{{@site.url}}">
+            <picture>
+                <source srcset="{{asset "img/error-dark.png"}}" media="(prefers-color-scheme: dark)">
+                <img src="{{asset "img/error.png"}}">
+            </picture>
+        </a>
         <h1>{{statusCode}}</h1>
         <h2>{{message}}</h2>
         <p><a id="home-link" href="{{@site.url}}">Go to the home page?</a></p>
