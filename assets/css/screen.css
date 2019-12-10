@@ -2584,6 +2584,12 @@ figcaption {
     table tbody > tr:nth-child(odd) > td, table tbody > tr:nth-child(odd) > th {
         background-color: transparent;
     }
+
+    /* Content pre-formatted text */
+    pre {
+        background-color: #212121;
+        border: none;
+    }
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
