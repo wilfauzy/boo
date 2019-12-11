@@ -229,11 +229,13 @@ h1 {
 h2 {
     font-size: 3.6rem;
     letter-spacing: -1px;
+    text-indent: -1px;
 }
 
 h3 {
     font-size: 3rem;
     letter-spacing: -0.6px;
+    text-indent: -1px;
 }
 
 h4 {
@@ -1049,6 +1051,7 @@ body:not(.post-template):not(.page-template) .post-title {
     font-size: 3.7rem;
     font-family: 'Roboto', sans-serif;
     letter-spacing: -1px;
+    text-indent: -1px;
 }
 
 .post-title a {
