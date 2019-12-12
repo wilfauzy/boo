@@ -15,7 +15,7 @@ A beautiful, clean, and responsive theme for Ghost.
 [![Boo logo](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/mWST66S8IsFENkC13lXk/d05AUxswkS.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases/latest)
 <br><br>
 
-# Features 🌟
+# 🌟 Features
 [![100% responsive](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/tbDYR5F6rrR7CFzwWH4B/HtfJPIi7Sf.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases/latest)
 
 [![minimalist home page](https://d12swbtw719y4s.cloudfront.net/images/3U9tKy1f/y55wAuIzcby3e023VNro/rZLghrhEnE.jpeg?w=888)](https://github.com/PoeticThemes/boo/releases/latest)
