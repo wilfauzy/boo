@@ -1879,7 +1879,7 @@ figcaption {
 }
 
 /* Media Query - Equal or less than 800px height */
-@media only screen and (max-height: 800px) {
+@media only screen and (max-height: 1440px) {
 
     .main-header {
         height: 100vh;
