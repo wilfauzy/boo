@@ -2,7 +2,7 @@
     "name": "boo",
     "description": "A beautiful, clean, and responsive theme for Ghost.",
     "demo": "https://boo-demo.poeticthemes.com",
-    "version": "3.0.0",
+    "version": "3.1.1",
     "engines": {
         "ghost": "^3.1.1",
         "ghost-api": "v3"
