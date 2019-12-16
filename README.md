@@ -83,5 +83,5 @@ This theme is brought to you thanks to our awesome partners, sponsors, and suppo
 [![GitHub stars](https://img.shields.io/github/stars/PoeticThemes/boo.svg?style=social&label=Star)](https://github.com/PoeticThemes/boo/stargazers)
 
 <p align="center">
-  <a href="https://boo-demo.poeticthemes.com"><img src="https://i.imgur.com/VImilVs.jpg"></a>
+  <a href="https://boo-demo.poeticthemes.com"><img src="https://i.imgur.com/jfdpb1r.jpg" width="164px"></a>
 </p>
