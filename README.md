@@ -34,7 +34,7 @@ The easiest way to start developing this theme in seconds is using the included 
 <br><br>
 
 # 🐞 Bug reports
-Found a bug? No problem, [click here](https://github.com/PoeticThemes/boo/issues/new) to report it.
+Found a bug? No problem, [click here to report it](https://github.com/PoeticThemes/boo/issues/new).
 <br><br>
 
 # 💬 FAQ
