@@ -5,13 +5,14 @@
     </a>
     <ul>
         {{#foreach navigation}}
-            <li class="nav-{{slug}}{{#if current}} nav-current{{/if}}"><a href="{{url absolute="true"}}">{{label}}</a></li>
+        <li class="nav-{{slug}}{{#if current}} nav-current{{/if}}"><a href="{{url absolute=" true"}}">{{label}}</a></li>
         {{/foreach}}
     </ul>
+
     {{#if @labs.subscribers}}
-        <a class="subscribe-button" href="{{@site.url}}/subscribe/">Subscribe</a>
+    <a class="subscribe-button" href="{{@site.url}}/subscribe/">Subscribe</a>
     {{else}}
-        <a class="subscribe-button icon-feed" href="{{@site.url}}/rss/">Subscribe</a>
+    <a class="subscribe-button icon-feed" href="{{@site.url}}/rss/">Subscribe</a>
     {{/if}}
 </div>
-<span class="nav-cover"></span>
+<span class="nav-cover" id="Nav_cover"></span>
